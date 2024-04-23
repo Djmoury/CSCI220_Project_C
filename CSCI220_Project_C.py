@@ -1,8 +1,8 @@
-#CSCI 220 Final Project Group C
-#12-4-23
+#CSCI 220 Final Project Team C
+#Delayna Moury, Kaprione Georghiou
+#4-23-24
 
 #class that holds the attributes for a node
-# A Huffman Tree Node 
 import heapq 
   
   
